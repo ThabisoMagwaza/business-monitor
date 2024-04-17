@@ -1,7 +1,9 @@
+import UploadImage from '@/components/UploadImage';
+
 export default function Home() {
   return (
     <main>
-      <h1>Hello Business Monitor!</h1>
+      <UploadImage />
     </main>
   );
 }

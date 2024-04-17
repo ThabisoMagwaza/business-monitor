@@ -32,10 +32,6 @@ const GlobalStyles = createGlobalStyle`
     overflow-wrap: break-word;
   }
 
-  h1 {
-    color: red;
-  }
-
 `;
 
 export default GlobalStyles;
