@@ -69,6 +69,7 @@ function UploadImage() {
       </div>
 
       <div>
+        <h2>What you bought</h2>
         {Array.isArray(items) &&
           items.map((item, index) => (
             <Item key={index}>
